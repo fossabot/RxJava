@@ -3,6 +3,7 @@
 <a href='https://travis-ci.org/ReactiveX/RxJava/builds'><img src='https://travis-ci.org/ReactiveX/RxJava.svg?branch=2.x'></a>
 [![codecov.io](http://codecov.io/github/ReactiveX/RxJava/coverage.svg?branch=2.x)](https://codecov.io/gh/ReactiveX/RxJava/branch/2.x)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.reactivex.rxjava2/rxjava/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.reactivex.rxjava2/rxjava)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRikardLegge%2FRxJava.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRikardLegge%2FRxJava?ref=badge_shield)
 
 RxJava is a Java VM implementation of [Reactive Extensions](http://reactivex.io): a library for composing asynchronous and event-based programs by using observable sequences.
 
@@ -597,3 +598,6 @@ For bugs, questions and discussions please use the [Github Issues](https://githu
 
 [beta source link]: https://github.com/ReactiveX/RxJava/blob/2.x/src/main/java/io/reactivex/annotations/Beta.java
 [experimental source link]: https://github.com/ReactiveX/RxJava/blob/2.x/src/main/java/io/reactivex/annotations/Experimental.java
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRikardLegge%2FRxJava.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRikardLegge%2FRxJava?ref=badge_large)
